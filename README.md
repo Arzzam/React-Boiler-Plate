@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Template React App
 
 THIS IS A TEMPLATE FOR REACT TO GET START EASILY
 
